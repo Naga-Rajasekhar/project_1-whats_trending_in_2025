@@ -1,0 +1,134 @@
+* {
+  padding: 0;
+  outline: 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 3rem;
+}
+
+.list {
+  display: flex;
+  position: relative;
+  left: -1rem;
+  gap: 3rem;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.list-item:first-child {
+  text-decoration-line: underline;
+}
+
+.list-item {
+  list-style: none;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: row;
+}
+
+.search-icon {
+  margin-top: 25px;
+  margin-right: 25px;
+}
+
+.nav-button {
+  margin-top: 20px;
+  margin-right: 10px;
+  font-size: 20px;
+  padding: 10px 35px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+img[src="/assets/Image.png"] {
+  margin: 3rem;
+  position: absolute;
+  margin-top: -500px;
+  height: 480px;
+}
+
+img[src="/assets/squares.png"] {
+  margin-left: 110px;
+  margin-top: 110px;
+  height: 400px;
+}
+
+img[src="/assets/globe.png"] {
+  height: 65px;
+  position: fixed;
+  margin-top: 0;
+  margin-left: 200px;
+}
+
+img[src="/assets/start.png"] {
+  position: fixed;
+  margin-left: 700px;
+  height: 50px;
+  margin-top: 50px;
+}
+
+.star-2 img {
+  position: fixed;
+  margin-left: 40px;
+  height: 50px;
+  margin-top: 400px;
+}
+
+.hero-container-right {
+  display: flex;
+  flex-direction: column;
+  margin-left: 650px;
+  margin-top: -450px;
+}
+
+.hero-heading {
+  font-size: 50px;
+  font-family: "Orbitron", "Poppins", sans-serif;
+}
+
+.hero-description {
+  justify-content: center;
+  text-align: center;
+  width: 550px;
+  margin-left: 60px;
+}
+
+.button-email {
+  font-family: "Orbitron", "Poppins", sans-serif;
+  font-size: 15px;
+  margin-left: 200px;
+  margin-top: 40px;
+  padding: 5px 30px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+
+.button-join {
+  font-family: "Orbitron", "Poppins", sans-serif;
+  font-size: 15px;
+  background-color: #000;
+  color: #fff;
+  padding: 5px 5px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.contact-heading {
+  font-family: "Orbitron", "Poppins", sans-serif;
+  font-size: 15px;
+  margin-top: 25px;
+  margin-left: 300px;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-left: 230px;
+  margin-top: -5px;
+}
