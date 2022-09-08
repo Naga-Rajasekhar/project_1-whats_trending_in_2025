@@ -4,11 +4,13 @@
 >
 > By Naga Rajasekhar
 
-You can find the live deployment link of this web page here --> **[Live Deployment Link](https://trendingin2025.netlify.app)**
+You can find the live deployment link of this web page below
+
+# [Live Deployment Link](https://trendingin2025.netlify.app)
+
 <br/>
 <br/>
-<br/>
-<br/>
+
 ![Preview](./preview_of_project-1.png)
 
 <br/>
@@ -18,3 +20,9 @@ You can find the live deployment link of this web page here --> **[Live Deployme
 1. Gained knowledge about postions and its properties<br/>
 2. Learnt about z-index
 3. Gained knowledge about padding, margin, colors, border and their values
+
+<br>
+
+<hr>
+
+# It took 6 hours to design this web page
